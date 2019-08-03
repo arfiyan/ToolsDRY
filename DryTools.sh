@@ -43,7 +43,7 @@ echo "   # thanks to : - Barbar Ustmani "| lolcat
 echo "   # thanks to : - Pemuda Biasa   "| lolcat
 echo "   # thanks to : - Infected_AOFSFOF⁩ "| lolcat
 echo "   # thanks to : - SweetMoon "| lolcat
-echo "   # thanks to : - Sheirash⁩  "| lolcat
+echo "   # thanks to : - PrincesCMN"| lolcat
 echo " ***********************************************"| lolcat
 echo ""
 echo " ======================="| lolcat
@@ -146,9 +146,10 @@ echo " IM TESTER"| lolcat
 sleep 1
 echo " Please Wait.... "| lolcat
 sleep 1
-echo " contact : arfiyan1578@gmail.com " | lolcat 
+echo "  " | lolcat 
 sleep 1
-echo " Bye ea :* "| lolcat
+echo " Datang Lagi Ya sayang :* "| lolcat
 sleep 1
+figlet banner.flf "ind cyber army"
 exit
 fi   
