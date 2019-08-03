@@ -138,8 +138,6 @@ fi
 
 if [ $act = 05 ] || [ $act = 05 ]
 then
-echo " CMN "| lolcat
-sleep 1
 echo " DRY "| lolcat
 sleep 1
 echo " IM TESTER"| lolcat
@@ -150,6 +148,6 @@ echo "  " | lolcat
 sleep 1
 echo " Datang Lagi Ya sayang :* "| lolcat
 sleep 1
-figlet banner.flf "ind cyber army"
+figlet "DRY" | lolcat
 exit
 fi   
